@@ -1,0 +1,11 @@
+{
+  "name": "ttm-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chayapatr/ttm-puppeteer.git",
+  "author": "chayapatr <chayapatr.arc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}
